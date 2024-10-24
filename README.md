@@ -1,11 +1,13 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Iago Suzart.</h1> 
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Iago Suzart.</h1> <br>
 
-
-<!--
 - 📚 Studying Análise e Desenvolvimento de Sistemas.
+
 - 🌱 Currently learning Java, PHP, JavaScript, MySQL...
-- 💬 Ask me about **JavaScript, HTML5, CSS3, JAVA, PHP, MySQL**
+
+- 💬 Ask me about **HTML5, CSS3, JAVA, PHP, MySQL, JavaScript**.
+  
 - 📫 How to contact me: iagosuzartsilva@gmail.com
+  
 - ⚡ Fast facts: Determination and focus.
 <br>
 <div align="center">
@@ -14,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaguinho-0&layout=compact&theme=radical&hide=html&langs_count=6"/>
   </a>
 </div>
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -49,4 +51,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iaguinho-0/iaguinho-0/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
--->
