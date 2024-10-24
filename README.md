@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/iaguinho-0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iaguinho-0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iaguinho-0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaguinho-0&layout=compact&theme=radical&hide=html&langs_count=6"/>
   </a>
 </div>
@@ -34,4 +34,8 @@
   <a href="https://www.instagram.com/um_estudante_de_ads/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/iaguinho-0/iaguinho-0/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iaguinho-0/iaguinho-0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iaguinho-0/iaguinho-0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iaguinho-0/iaguinho-0/output/github-contribution-grid-snake.svg">
+</picture>
