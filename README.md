@@ -24,13 +24,13 @@
   <img align="center" alt="Iago-HTML" height="28" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML5
   <img align="center" alt="Iago-CSS" height="28" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS3
   <img align="center" alt="Iago-JS" height="28" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript
+  <img align="center" alt="Iago-MongoDB" height="28" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">TypeScript
   <img align="center" alt="Iago-Java" height="28" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">Java
   <img align="center" alt="Iago-PHP" height="28" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">PHP
   <img align="center" alt="Iago-React" height="28" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React
   <img align="center" alt="Iago-Python" height="28" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python
   <img align="center" alt="Iago-Mysql" height="28" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">MySQL
-  <img align="center" alt="Iago-Postgresql" height="28" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">PostgreSQL
-  <img align="center" alt="Iago-MongoDB" height="28" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">MongoDB
+  <img align="center" alt="Iago-Postgresql" height="28" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">PostgreSQL  
 </div>
 <br>
 
