@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://github.com/iaguinho-0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iaguinho-0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=percentile"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaguinho-0&langs_count=6&layout=compact&theme=radical&hide=html&exclude_repo=RUCSAL,agenda-voluntarios_javaweb"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaguinho-0&langs_count=20&layout=compact&theme=radical&hide=html,hack&exclude_repo=RUCSAL,agenda-voluntarios_javaweb"/>
   </a>
 </div>
 <br>
